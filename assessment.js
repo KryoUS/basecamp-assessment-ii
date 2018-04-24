@@ -38,7 +38,7 @@ myFriends.push("Eric");
 //DON'T TOUCH THE CODE BELOW
 var myArray = [1, 2, 3, 4];
 //DON'T TOUCH THE CODE ABOVE
-var myArrayCopy = myArray;
+var myArrayCopy = myArray.slice(0);
 
 // #8 Below is a array, myNumbers. Create a function called 'evensOnly' that returns the 'evensArray' of only even numbers
 //DON'T TOUCH THE CODE BELOW
